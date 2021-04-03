@@ -3,7 +3,7 @@
 
 [![Downloads Stats][npm-downloads]][npm-url]
 
-O sistema basicamente registra matérias primas como fragrancias, controla um estoque destas matérias e registra os pedidos de fabricação.
+O sistema basicamente registra matérias primas como fragrâncias, controla um estoque destas matérias e registra os pedidos de fabricação.
 
 ![](../header.png)
 
