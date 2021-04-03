@@ -1,7 +1,7 @@
 # Projeto Fabrica de Perfume
 > Este é um exemplo de aplicativo solicitado no Processo Seletivo - Desenvolvedor Instituto Flexpeak. Este projeto utilizará o CodeIgniter 3, Bootstrap v4.5.0 e algumas bibliotecas e plug-ins que utilizam principalmente JQuery.
 
-[![Downloads Stats][npm-downloads]][npm-url]
+![NPM](https://img.shields.io/npm/l/react)|(https://github.com/andreney/sifap/blob/main/LICENSE)
 
 O sistema basicamente registra matérias primas como fragrâncias, controla um estoque destas matérias e registra os pedidos de fabricação.
 
