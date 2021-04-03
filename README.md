@@ -7,7 +7,7 @@ O sistema basicamente registra matérias primas como fragrâncias, controla um e
 
 ## Como Executar o Projeto
 * Coloque os arquivos de código deste projeto na localização da pasta web (htdocs, www etc ) em seu servidor.
-* Este projeto usou como gerenciador de banco de dados o **MySQL**, instale e importe o arquivo [**sysdb.sql**](https://github.com/andreney/sifap/blob/main/sysdb.sql) que está na raiz do repositório (obs. o banco já vem populado com testes).
+* Este projeto usou como gerenciador de banco de dados o **MySQL**, instale e importe (ou execute) o arquivo [**sysdb.sql**](https://github.com/andreney/sifap/blob/main/sysdb.sql) que está na raiz do repositório (obs. o banco já vem populado com testes).
 * Com o banco criado, modifique o arquivo **application** / **config** / **database.php**. A modificação será somente para informar o _username_ e o password de acesso ao MySQL uma vez que o arquivo importado do SQL já criou o database.
 ![Exemplo_Edicao](https://github.com/andreney/assets/blob/main/img/mudar_database.png)
 
