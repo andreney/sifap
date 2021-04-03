@@ -7,14 +7,14 @@ O sistema basicamente registra matérias primas como fragrâncias, controla um e
 
 ## Como Executar o Projeto
 * Coloque os arquivos de código deste projeto na localização da pasta web (htdocs, www etc ) em seu servidor.
-* Este projeto usou como gerenciador de banco de dados o MySQL, instale e importe o arquivo sysdb.sql que está na raiz do repositório (obs. o banco já vem populado com testes).
-* Com o banco criado, modifique o arquivo application / config / database.php. A modificação será somente para informar o username e o password de acesso ao MySQL uma vez que o arquivo importado do SQL já criou o database.
+* Este projeto usou como gerenciador de banco de dados o **MySQL**, instale e importe o arquivo **sysdb.sql** que está na raiz do repositório (obs. o banco já vem populado com testes).
+* Com o banco criado, modifique o arquivo **application** / **config** / **database.php**. A modificação será somente para informar o _username_ e o password de acesso ao MySQL uma vez que o arquivo importado do SQL já criou o database.
 ![Exemplo_Edicao](https://github.com/andreney/assets/blob/main/img/mudar_database.png)
 
 ## Recursos
 > Inclui os seguintes recursos:
 * Registro e Atualização de Perfumes
-* Registro e Atualização de Matéria Prima (controle do estoque)
+* Registro e Atualização de Matéria Prima (_controle do estoque_)
 * Registro de Pedidos de Fabricação
 * Relatórios
     * Perfumes mais fabricados
