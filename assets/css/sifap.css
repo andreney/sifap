@@ -1,0 +1,22 @@
+/*!
+ * SISCCAM v1.0 - Atlantis Bootstrap Dashboard (Bootstrap 4)
+ * Copyright 2020-2020 Andreney Laranjeira
+ */
+ 
+/*Customiza o tooltip do Bootstrap*/
+.tooltip-inner {
+  background-color: #265CFF !important;
+  color: #color ;
+}
+.bs-tooltip-top .arrow::before, .bs-tooltip-auto[x-placement^="top"] .arrow::before {
+  border-top-color: #265CFF !important;
+}
+.bs-tooltip-right .arrow::before, .bs-tooltip-auto[x-placement^="right"] .arrow::before {
+  border-right-color: #265CFF !important;
+}
+.bs-tooltip-bottom .arrow::before, .bs-tooltip-auto[x-placement^="bottom"] .arrow::before {
+  border-bottom-color: #265CFF !important;
+}
+.bs-tooltip-left .arrow::before, .bs-tooltip-auto[x-placement^="left"] .arrow::before {
+  border-left-color: #265CFF !important;
+}
